@@ -4,7 +4,7 @@ Olá! Sou Pedro Arthur. Seja bem-vindo ao meu perfil no GitHub! Aqui você vai e
 
 Trabalho com infraestrutura de redes e, nas horas vagas, faço freelance como desenvolvedor Full Stack. 🔧
 
-Conhecimento sólido em Java. ☕
+Conhecimento sólido em JavaScript. ☕
 
 Atualmente estudando e praticando Python. 🐍 
 
