@@ -1,4 +1,6 @@
-Pedro Arthur 😎
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Pedro%20Arthur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20JavaScript%20|%20Node.js%20|%20Networking&descAlignY=55&descSize=18" />
+</p>
 
 Olá! Sou Pedro Arthur. Seja bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar ideias, projetos e muita vontade de aprender e evoluir. Bora codar! 👨‍💻
 
