@@ -14,6 +14,8 @@ Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e desenvolvimento de
 - **Node.js**
 - **React**
 - **Next.js**
+- **Html**
+- **Css**
 - **Banco de Dados**
 - Desenvolvimento de **aplicações web modernas**
 
@@ -38,10 +40,5 @@ Aqui no GitHub você encontrará projetos, estudos e experimentos que fazem part
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-2004&theme=tokyonight"/>
 </p>
 
-## 🚀 Tecnologias e Ferramentas
-
-<p align="center">
-  <img height="60" src="https://skillicons.dev/icons?i=ts,nodejs,react,postgres,html,css" />
-</p>
 
 
