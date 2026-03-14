@@ -2,13 +2,24 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Pedro%20Arthur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20JavaScript%20|%20Node.js%20|%20Networking&descAlignY=55&descSize=18" />
 </p>
 
-Olá! Sou Pedro Arthur. Seja bem-vindo ao meu perfil no GitHub! Aqui você vai encontrar ideias, projetos e muita vontade de aprender e evoluir. Bora codar! 👨‍💻
+## 👨‍💻 Sobre mim
 
-Trabalho com infraestrutura de redes e, nas horas vagas, faço freelance como desenvolvedor Full Stack. 🔧
+## 👨‍💻 Sobre mim
 
-Conhecimento sólido em JavaScript. ☕
+Olá! Me chamo **Pedro Arthur**.
 
-Atualmente estudando e praticando Python. 🐍 
+Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e pelo desenvolvimento de software. Tenho grande interesse em criar aplicações eficientes, escaláveis e bem estruturadas, além de estar sempre em busca de novos conhecimentos e desafios que contribuam para minha evolução profissional.
+
+🚀 Atualmente direciono meus estudos e projetos para:
+
+- **JavaScript**
+- **Node.js**
+- **React**
+- **Next.js**
+- **Banco de Dados**
+- Desenvolvimento de **aplicações web modernas**
+
+Aqui no GitHub você encontrará projetos, estudos e experimentos que fazem parte da minha jornada de aprendizado e crescimento como desenvolvedor.
 
 ![Pedro Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroArthur&show_icons=true&theme=tokyonight&custom_title=Pedro%20Arthur)
 
