@@ -1,18 +1,27 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Pedro%20Arthur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,40:203a43,100:2c5364&height=260&section=header&text=Pedro%20Arthur&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer&descAlignY=60&descSize=24"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+modern+web+applications;JavaScript+%7C+Node.js+%7C+React+%7C+Next.js;Clean+Code+%7C+Scalable+Architecture;Always+learning+new+technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Modern+Web+Applications;TypeScript+%7C+JavaScript+%7C+Node.js+%7C+React+%7C+Next.js;Clean+Architecture+%7C+Scalable+Systems;Passionate+About+Technology+and+Code"/>
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Full%20Stack%20Developer-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js"/>
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js"/>
+
 </p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,html,css,git,vscode&perline=10" />
+</p>
+
 
 
 ## 👨‍💻 Sobre mim
