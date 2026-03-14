@@ -18,18 +18,23 @@
 
 </p>
 
-
 ## 👨‍💻 Sobre mim
 
 Olá! Me chamo **Pedro Arthur**.
 
-Sou **Full Stack Developer** apaixonado por tecnologia e desenvolvimento de software, com foco na construção de **aplicações web modernas, escaláveis e bem estruturadas**. Busco constantemente aprimorar minhas habilidades técnicas, aplicando **boas práticas de desenvolvimento, arquitetura de software e organização de código**.
+Sou **Full Stack Developer** apaixonado por tecnologia e desenvolvimento de software, com foco na construção de **aplicações web modernas, escaláveis e bem estruturadas**.
 
-Atualmente direciono meus estudos e projetos para o desenvolvimento de aplicações utilizando o ecossistema **JavaScript e TypeScript**, atuando tanto no **front-end quanto no back-end**.
+Tenho grande interesse em aprimorar continuamente minhas habilidades técnicas, aplicando **boas práticas de desenvolvimento, arquitetura de software e organização de código**.
+
+### 🚀 Stack principal
 
 TypeScript | JavaScript | Node.js | React | Next.js | APIs | Web Applications
 
-💡 Aqui no GitHub você encontrará **projetos, experimentos e estudos** que refletem minha evolução contínua como desenvolvedor e minha dedicação em construir software de qualidade.
+### 📚 Foco atual de estudos
+
+Full Stack Architecture | API Development | React & Next.js | Database Integration | Clean Code | Software Design
+
+💡 Aqui no GitHub você encontrará **projetos, estudos e experimentos** que refletem minha evolução constante como desenvolvedor.
 
 ---
 
