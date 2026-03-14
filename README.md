@@ -7,19 +7,14 @@
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Full%20Stack%20Developer-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js"/>
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js"/>
-
 </p>
-<h1 align="center">
-👨‍💻 About Me
-</h1>
+
+<h1 align="center">👨‍💻 About Me</h1>
 
 Olá! Me chamo **Pedro Arthur**.
 
@@ -27,7 +22,7 @@ Sou **Full Stack Developer** apaixonado por tecnologia e desenvolvimento de soft
 
 Trabalho principalmente com o ecossistema **JavaScript e TypeScript**, desenvolvendo aplicações tanto no **front-end quanto no back-end**, sempre aplicando boas práticas de desenvolvimento, arquitetura de software e organização de código.
 
-### 🚀 Stack principal
+### 🚀 Stack Principal
 
 TypeScript | JavaScript | Node.js | React | Next.js | PostgreSQL | APIs | Web Applications
 
