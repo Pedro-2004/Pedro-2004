@@ -6,7 +6,7 @@
 
 Olá! Me chamo **Pedro Arthur**.
 
-Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e pelo desenvolvimento de software. Tenho grande interesse em criar aplicações eficientes, escaláveis e bem estruturadas, além de estar sempre em busca de novos conhecimentos e desafios que contribuam para minha evolução profissional.
+Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e desenvolvimento de software. Tenho grande interesse em construir aplicações modernas, eficientes e bem estruturadas, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades como desenvolvedor.
 
 🚀 Atualmente direciono meus estudos e projetos para:
 
@@ -17,7 +17,9 @@ Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e pelo desenvolvimen
 - **Banco de Dados**
 - Desenvolvimento de **aplicações web modernas**
 
-Aqui no GitHub você encontrará projetos, estudos e experimentos que fazem parte da minha jornada de aprendizado e crescimento como desenvolvedor.
+Aqui no GitHub você encontrará projetos, estudos e experimentos que fazem parte da minha jornada de aprendizado e evolução no desenvolvimento de software.
+
+💡 Sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedor.
 
 ![Pedro Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroArthur&show_icons=true&theme=tokyonight&custom_title=Pedro%20Arthur)
 
