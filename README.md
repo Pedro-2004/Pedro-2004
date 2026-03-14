@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js"/>
 
 </p>
-## 👨‍💻 Sobre mim
+ 👨‍💻 Sobre mim
 
 Olá! Me chamo **Pedro Arthur**.
 
