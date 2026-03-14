@@ -32,12 +32,6 @@ Aqui no GitHub você encontrará projetos, estudos e experimentos que fazem part
 
 [![Pedro github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-2004&theme=tokyo-night)](https://github.com/Pedro-2004)
 
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-2004&theme=tokyonight"/>
-</p>
-
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
