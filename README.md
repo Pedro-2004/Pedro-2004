@@ -4,8 +4,6 @@
 
 ## 👨‍💻 Sobre mim
 
-## 👨‍💻 Sobre mim
-
 Olá! Me chamo **Pedro Arthur**.
 
 Sou **Desenvolvedor Full Stack**, apaixonado por tecnologia e pelo desenvolvimento de software. Tenho grande interesse em criar aplicações eficientes, escaláveis e bem estruturadas, além de estar sempre em busca de novos conhecimentos e desafios que contribuam para minha evolução profissional.
