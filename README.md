@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js"/>
 </p>
-
+<br>
 <h1 align="center">👨‍💻 About Me</h1>
 
 Olá! Me chamo **Pedro Arthur**.
