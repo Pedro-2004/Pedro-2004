@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Pedro%20Arthur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20JavaScript%20•%20Node.js%20•%20React%20•%20Next.js&descAlignY=60&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,12,20,24&height=220&section=header&text=Pedro%20Arthur&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20JavaScript%20•%20Node.js%20•%20React%20•%20Next.js&descAlignY=60&descSize=18"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=const+developer+=+Pedro+Arthur;Full+Stack+Developer;Building+Modern+Web+Applications;JavaScript+%7C+Node.js+%7C+React+%7C+Next.js;Always+Learning+New+Technologies"/>
 </p>
 
 
