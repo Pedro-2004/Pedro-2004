@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Pedro%20Arthur&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20JavaScript%20|%20Node.js%20|%20React%20|%20Next.js&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=300&section=header&text=Pedro%20Arthur&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20JavaScript%20•%20Node.js%20•%20React%20•%20Next.js&descAlignY=60&descSize=20"/>
 </p>
+
 
 ## 👨‍💻 Sobre mim
 
