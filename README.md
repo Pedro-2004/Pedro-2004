@@ -18,11 +18,6 @@
 
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,html,css,git,vscode&perline=10" />
-</p>
-
-
 
 ## 👨‍💻 Sobre mim
 
