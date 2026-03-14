@@ -40,5 +40,10 @@ Aqui no GitHub você encontrará projetos, estudos e experimentos que fazem part
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-2004&theme=tokyonight"/>
 </p>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,html,css,git" />
+</p>
+
+
 
 
