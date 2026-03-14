@@ -23,12 +23,13 @@
 
 Olá! Me chamo **Pedro Arthur**.
 
-Sou **Desenvolvedor Full Stack** apaixonado por tecnologia e desenvolvimento de software.  
-Tenho grande interesse em construir aplicações modernas, escaláveis e bem estruturadas, aplicando boas práticas de desenvolvimento e buscando constantemente evoluir minhas habilidades técnicas.
+Sou **Full Stack Developer** apaixonado por tecnologia e desenvolvimento de software, com foco na construção de **aplicações web modernas, escaláveis e bem estruturadas**. Busco constantemente aprimorar minhas habilidades técnicas, aplicando **boas práticas de desenvolvimento, arquitetura de software e organização de código**.
 
-Atualmente foco meus estudos e projetos no desenvolvimento de **aplicações web modernas**, trabalhando principalmente com o ecossistema JavaScript no front-end e no back-end.
+Atualmente direciono meus estudos e projetos para o desenvolvimento de aplicações utilizando o ecossistema **JavaScript e TypeScript**, atuando tanto no **front-end quanto no back-end**.
 
-💡 Aqui no GitHub você encontrará **projetos, estudos e experimentos** que fazem parte da minha jornada de aprendizado e evolução no desenvolvimento de software.
+TypeScript | JavaScript | Node.js | React | Next.js | APIs | Web Applications
+
+💡 Aqui no GitHub você encontrará **projetos, experimentos e estudos** que refletem minha evolução contínua como desenvolvedor e minha dedicação em construir software de qualidade.
 
 ---
 
@@ -38,15 +39,13 @@ Atualmente foco meus estudos e projetos no desenvolvimento de **aplicações web
 <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,html,css,git,vscode" />
 </p>
 
+TypeScript | Node.js | React | Next.js | PostgreSQL | HTML | CSS | Git
+
 ---
 
-## 📚 Atualmente estudando e aprimorando
+## 📚 Foco atual de estudos e desenvolvimento
 
-- Arquitetura de aplicações **Full Stack**
-- Desenvolvimento de APIs com **Node.js**
-- Interfaces modernas com **React e Next.js**
-- Modelagem e integração com **banco de dados**
-- Boas práticas de desenvolvimento e organização de código
+Full Stack Architecture | API Development | React & Next.js Interfaces | Database Integration | Clean Code | Software Design
 
 ---
 
@@ -73,4 +72,5 @@ Atualmente foco meus estudos e projetos no desenvolvimento de **aplicações web
 
 ---
 
-💡 **Sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedor.**
+💡 **Always learning | Always building | Always improving.**
+
