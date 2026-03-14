@@ -24,7 +24,8 @@
 <p align="center">
 Full Stack Developer | JavaScript | TypeScript | Node.js | React | Next.js
 </p>
-<p></p>
+
+
 Olá! Me chamo **Pedro Arthur**.
 
 Sou **Full Stack Developer** apaixonado por tecnologia e desenvolvimento de software, com foco na criação de **aplicações web modernas, escaláveis e bem estruturadas**.
