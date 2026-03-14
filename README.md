@@ -6,7 +6,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=const+developer+=+Pedro+Arthur;Full+Stack+Developer;Building+Modern+Web+Applications;JavaScript+%7C+Node.js+%7C+React+%7C+Next.js;Always+Learning+New+Technologies"/>
 </p>
 
+p align="center">
 
+```bash
+$ whoami
+Pedro Arthur
+
+$ role --current
+Full Stack Developer
+
+$ tech-stack --list
+JavaScript
+Node.js
+React
+Next.js
+TypeScript
+PostgreSQL
+
+$ current-focus
+Building scalable and modern web applications
+
+$ philosophy
+Code. Learn. Improve. Repeat.
+</p> 
 ## 👨‍💻 Sobre mim
 
 Olá! Me chamo **Pedro Arthur**.
