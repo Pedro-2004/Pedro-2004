@@ -17,7 +17,13 @@
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js"/>
 
 </p>
- 👨‍💻 Sobre mim
+<h1 align="center">
+👨‍💻 About Me
+</h1>
+
+<p align="center">
+Full Stack Developer | JavaScript | TypeScript | Node.js | React | Next.js
+</p>
 
 Olá! Me chamo **Pedro Arthur**.
 
