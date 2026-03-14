@@ -17,24 +17,19 @@
 <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js"/>
 
 </p>
-
 ## 👨‍💻 Sobre mim
 
 Olá! Me chamo **Pedro Arthur**.
 
-Sou **Full Stack Developer** apaixonado por tecnologia e desenvolvimento de software, com foco na construção de **aplicações web modernas, escaláveis e bem estruturadas**.
+Sou **Full Stack Developer** apaixonado por tecnologia e desenvolvimento de software, com foco na criação de **aplicações web modernas, escaláveis e bem estruturadas**.
 
-Tenho grande interesse em aprimorar continuamente minhas habilidades técnicas, aplicando **boas práticas de desenvolvimento, arquitetura de software e organização de código**.
+Trabalho principalmente com o ecossistema **JavaScript e TypeScript**, desenvolvendo aplicações tanto no **front-end quanto no back-end**, sempre aplicando boas práticas de desenvolvimento, arquitetura de software e organização de código.
 
 ### 🚀 Stack principal
 
-TypeScript | JavaScript | Node.js | React | Next.js | APIs | Web Applications
+TypeScript | JavaScript | Node.js | React | Next.js | PostgreSQL | APIs | Web Applications
 
-### 📚 Foco atual de estudos
-
-Full Stack Architecture | API Development | React & Next.js | Database Integration | Clean Code | Software Design
-
-💡 Aqui no GitHub você encontrará **projetos, estudos e experimentos** que refletem minha evolução constante como desenvolvedor.
+💡 Aqui no GitHub você encontrará **projetos, estudos e experimentos** que fazem parte da minha evolução constante como desenvolvedor.
 
 ---
 
@@ -43,14 +38,6 @@ Full Stack Architecture | API Development | React & Next.js | Database Integrati
 <p align="center">
 <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,postgres,html,css,git,vscode" />
 </p>
-
-TypeScript | Node.js | React | Next.js | PostgreSQL | HTML | CSS | Git
-
----
-
-## 📚 Foco atual de estudos e desenvolvimento
-
-Full Stack Architecture | API Development | React & Next.js Interfaces | Database Integration | Clean Code | Software Design
 
 ---
 
@@ -78,4 +65,3 @@ Full Stack Architecture | API Development | React & Next.js Interfaces | Databas
 ---
 
 💡 **Always learning | Always building | Always improving.**
-
