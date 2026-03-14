@@ -21,20 +21,27 @@ Aqui no GitHub você encontrará projetos, estudos e experimentos que fazem part
 
 💡 Sempre em busca de novos desafios e oportunidades para evoluir como desenvolvedor.
 
-![Pedro Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroArthur&show_icons=true&theme=tokyonight&custom_title=Pedro%20Arthur)
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pedro-2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-2004&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
+## 📈 Activity Graph
 
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+[![Pedro github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-2004&theme=tokyo-night)](https://github.com/Pedro-2004)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-lain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-  original.svg">
-  
-</div>
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-2004&theme=tokyonight"/>
+</p>
+
+## 🚀 Tecnologias e Ferramentas
+
+<p align="center">
+  <img height="60" src="https://skillicons.dev/icons?i=ts,nodejs,react,postgres,html,css" />
+</p>
+
 
