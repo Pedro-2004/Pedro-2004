@@ -363,13 +363,21 @@ de conhecimento à próxima solução.
 
 ---
 
-<br>
-
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Pedro-2004/Pedro-2004/output/github-snake.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Pedro-2004/Pedro-2004/output/github-snake-dark.svg"
+    />
 
-<br>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Pedro-2004/Pedro-2004/output/github-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/Pedro-2004/Pedro-2004/output/github-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
