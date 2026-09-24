@@ -18,7 +18,8 @@ jobs:
         with:
           github_user_name: Pedro-2004
           outputs: |
-            dist/github-snake.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#00D9FF&color_dots=#0D1117,#003B4A,#006D7A,#00A6B8,#00D9FF
+            dist/github-snake-dark.svg?color_snake=#00D9FF&color_dots=#0D1117,#003B4A,#006D7A,#00A6B8,#00D9FF
 
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
