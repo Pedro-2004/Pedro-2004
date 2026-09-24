@@ -42,50 +42,93 @@ TypeScript | JavaScript | Node.js | React | Next.js | PostgreSQL | APIs | Web Ap
 
 <table>
 <tr>
+<td width="60%" valign="top">
 
-<td width="55%" valign="top">
+### Pedro — Full Stack Developer
 
-### 👨‍💻 Pedro
+Construo aplicações web com foco em **arquitetura, experiência e resultado**.
 
-**Desenvolvedor Full Stack**
+Meu processo vai além de escrever código: procuro entender o problema, estruturar a solução e transformar a ideia em uma aplicação funcional.
 
-Transformo ideias em aplicações web  
-modernas, funcionais e escaláveis.
+**Atualmente trabalhando com:**
 
-Não gosto apenas de escrever código.
+`TypeScript` · `Node.js` · `React` · `Next.js` · `PostgreSQL`
 
-Gosto de entender o problema,  
-pensar na arquitetura e construir  
-a solução do início ao fim.
-
-<br><br>
+<br>
 
 <a href="https://portifolio-pedro-liard.vercel.app/">
-<strong>→ EXPLORAR MEU PORTFÓLIO</strong>
+  <img src="https://img.shields.io/badge/VER%20MEUS%20PROJETOS-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver meus projetos">
 </a>
 
 </td>
 
-<td width="45%" valign="top">
+<td width="40%" valign="middle" align="center">
 
-```text
-┌─────────────────────┐
-│                     │
-│   BUILD             │
-│   → TEST            │
-│   → IMPROVE         │
-│   → SHIP            │
-│                     │
-│        🚀           │
-│                     │
-└─────────────────────┘
-```
+### 🌐 PORTFÓLIO
+
+**Projetos • Tecnologias • Desenvolvimento**
+
+<br>
+
+<a href="https://portifolio-pedro-liard.vercel.app/">
+  <img src="https://img.shields.io/badge/🚀_EXPLORAR-22c55e?style=for-the-badge" alt="Explorar portfólio">
+</a>
+
+<br><br>
+
+<sub>
+Meu portfólio reúne meus principais
+<br>
+projetos e minha evolução como desenvolvedor.
+</sub>
 
 </td>
-
 </tr>
 </table>
 
+---
+
+### 🎯 O que você vai encontrar aqui
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**01**
+
+### 🧩 Projetos
+
+Aplicações desenvolvidas
+para colocar conhecimento
+em prática.
+
+</td>
+
+<td width="33%" align="center">
+
+**02**
+
+### ⚙️ Engenharia
+
+Front-end, back-end,
+APIs, banco de dados
+e arquitetura.
+
+</td>
+
+<td width="33%" align="center">
+
+**03**
+
+### 📈 Evolução
+
+Aprendizado contínuo,
+novas tecnologias e
+projetos cada vez maiores.
+
+</td>
+</tr>
+</table>
 ---
 
 
