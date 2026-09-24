@@ -101,6 +101,7 @@ Construir algo que continue fazendo sentido<br>
 
 </tr>
 </table>
+
 ---
 
 ## ◈ COMO EU PENSO E CONSTRUO
@@ -183,7 +184,6 @@ Ele precisa continuar
 
 ---
 
----
 
 ## ⚙️ UMA IDEIA QUE GUIA MEU TRABALHO
 
