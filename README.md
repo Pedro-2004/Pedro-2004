@@ -42,9 +42,10 @@ TypeScript | JavaScript | Node.js | React | Next.js | PostgreSQL | APIs | Web Ap
 
 <table>
 <tr>
+
 <td width="60%" valign="top">
 
-### Pedro — Full Stack Developer
+### Pedro — Desenvolvedor Full Stack
 
 Construo aplicações web com foco em **arquitetura, experiência e resultado**.
 
@@ -57,35 +58,37 @@ Meu processo vai além de escrever código: procuro entender o problema, estrutu
 <br>
 
 <a href="https://portifolio-pedro-liard.vercel.app/">
-  <img src="https://img.shields.io/badge/VER%20MEUS%20PROJETOS-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver meus projetos">
+  <img src="https://img.shields.io/badge/▲%20VER%20MEUS%20PROJETOS-111827?style=for-the-badge&logoColor=white" alt="Ver meus projetos">
 </a>
 
 </td>
 
 <td width="40%" valign="middle" align="center">
 
-### 🌐 PORTFÓLIO
-
-**Projetos • Tecnologias • Desenvolvimento**
+### ◈ TECNOLOGIA COM PROPÓSITO
 
 <br>
 
-<a href="https://portifolio-pedro-liard.vercel.app/">
-  <img src="https://img.shields.io/badge/🚀_EXPLORAR-22c55e?style=for-the-badge" alt="Explorar portfólio">
-</a>
+> **Código por si só não gera valor.**
+>
+> **Soluções que resolvem problemas, sim.**
+
+<br>
+
+<sub>
+Arquitetura bem pensada.<br>
+Código sustentável.<br>
+Experiência que faz sentido.
+</sub>
 
 <br><br>
 
-<sub>
-Meu portfólio reúne meus principais
-<br>
-projetos e minha evolução como desenvolvedor.
-</sub>
+**Construir é transformar complexidade em solução.**
 
 </td>
+
 </tr>
 </table>
-
 ---
 
 ### 🎯 O que você vai encontrar aqui
