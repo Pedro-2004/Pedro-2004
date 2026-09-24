@@ -42,15 +42,27 @@ TypeScript | JavaScript | Node.js | React | Next.js | PostgreSQL | APIs | Web Ap
 
 <p align="center">
   <a href="https://portifolio-pedro-liard.vercel.app/">
-    <img 
-      src="https://img.shields.io/badge/🚀%20ACESSAR%20MEU%20PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" 
-      alt="Acessar meu portfólio"
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1f2937&height=100&section=header&text=🚀%20CONHEÇA%20MEU%20PORTFÓLIO&fontSize=26&fontColor=ffffff&animation=fadeIn"
+      width="100%"
+      alt="Conheça meu portfólio"
     />
   </a>
 </p>
 
 <p align="center">
-  <i>Conheça meus projetos, tecnologias e experiências.</i>
+  <strong>Desenvolvimento • Projetos • Tecnologias</strong>
+  <br>
+  <sub>Um pouco mais sobre mim, meus projetos e o que venho construindo.</sub>
+</p>
+
+<p align="center">
+  <a href="https://portifolio-pedro-liard.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/🌐%20VISITAR%20PORTFÓLIO-111827?style=for-the-badge"
+      alt="Visitar portfólio"
+    />
+  </a>
 </p>
 
 ---
