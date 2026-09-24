@@ -211,10 +211,12 @@ Ele precisa continuar
 
 ---
 
-## 🔥 CONSISTÊNCIA & EVOLUÇÃO
+---
+
+## ◈ ENGINEERING TRACK RECORD
 
 <p align="center">
-  <strong>Desenvolvimento consistente. Aprendizado contínuo. Evolução mensurável.</strong>
+  <strong>CONSISTÊNCIA • EVOLUÇÃO • PROFUNDIDADE TÉCNICA</strong>
 </p>
 
 <br>
@@ -222,7 +224,7 @@ Ele precisa continuar
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-2004&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak de Pedro"
+    alt="GitHub contribution streak"
   />
 </p>
 
@@ -235,13 +237,19 @@ Ele precisa continuar
 
 ### 01
 
-**CONSISTÊNCIA**
+<h3>CONSISTÊNCIA</h3>
 
+Construir regularmente.
 <br>
+Aprender continuamente.
+<br>
+Manter o ritmo.
 
-Projetos, estudos e prática
-constante para transformar
-conhecimento em experiência.
+<br><br>
+
+<sub>
+<strong>DISCIPLINA → PRÁTICA</strong>
+</sub>
 
 </td>
 
@@ -249,14 +257,19 @@ conhecimento em experiência.
 
 ### 02
 
-**EVOLUÇÃO**
+<h3>PROFUNDIDADE</h3>
+
+Não basta fazer funcionar.
+
+É preciso compreender
+**por que funciona**
+e como pode evoluir.
 
 <br>
 
-Cada projeto representa
-uma nova oportunidade
-de melhorar decisões,
-código e arquitetura.
+<sub>
+<strong>ENTENDER → PROJETAR</strong>
+</sub>
 
 </td>
 
@@ -264,14 +277,17 @@ código e arquitetura.
 
 ### 03
 
-**DESEMPENHO**
+<h3>EVOLUÇÃO</h3>
+
+Cada projeto adiciona
+uma nova camada de
+conhecimento à próxima solução.
 
 <br>
 
-Mais do que quantidade
-de código, busco aumentar
-a qualidade das soluções
-que construo.
+<sub>
+<strong>APLICAR → REFINAR</strong>
+</sub>
 
 </td>
 
@@ -280,17 +296,30 @@ que construo.
 
 <br>
 
+---
+
+<h2 align="center">
+  “Experiência não é acumular anos.<br>
+  É acumular decisões melhores.”
+</h2>
+
 <p align="center">
-  <strong>“Experiência não é escrever código por mais tempo.</strong><br>
-  <strong>É aprender a tomar decisões melhores a cada projeto.”</strong>
+  <sub>
+    Código muda. Tecnologias mudam. Requisitos mudam.<br>
+    <strong>A capacidade de construir soluções que acompanham essa mudança é o que permanece.</strong>
+  </sub>
 </p>
 
 <br>
 
 <p align="center">
-  <sub>
-    Construir. Aprender. Refinar. Evoluir.
-  </sub>
+  <code>LEARN</code>
+  →
+  <code>BUILD</code>
+  →
+  <code>REFINE</code>
+  →
+  <code>EVOLVE</code>
 </p>
 
 ---
