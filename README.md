@@ -61,7 +61,6 @@ Antes de escrever código, penso nas decisões que vão sustentá-lo no futuro.
 <a href="https://portifolio-pedro-liard.vercel.app/">
   <img src="https://img.shields.io/badge/▲%20VER%20MEUS%20PROJETOS-111827?style=for-the-badge&logoColor=white" alt="Ver meus projetos">
 </a>
-
 </td>
 
 <td width="40%" valign="middle" align="center">
