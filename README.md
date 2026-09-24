@@ -38,20 +38,23 @@ TypeScript | JavaScript | Node.js | React | Next.js | PostgreSQL | APIs | Web Ap
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🌐 Meu Portfólio
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pedro-2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-2004&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://portifolio-pedro-liard.vercel.app/">
+    <img 
+      src="https://img.shields.io/badge/🚀%20ACESSAR%20MEU%20PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" 
+      alt="Acessar meu portfólio"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>Conheça meus projetos, tecnologias e experiências.</i>
 </p>
 
 ---
 
-## 📈 Activity Graph
-
-[![Pedro github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-2004&theme=tokyo-night)](https://github.com/Pedro-2004)
-
----
 
 ## 🔥 GitHub Streak
 
