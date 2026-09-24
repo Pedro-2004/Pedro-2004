@@ -183,13 +183,31 @@ Ele precisa continuar
 
 ---
 
-### ⚙️ UMA IDEIA QUE GUIA MEU TRABALHO
+---
 
-> ## **Código resolve o presente. Engenharia prepara o futuro.**
->
-> Criar uma solução é apenas o começo.
-> O verdadeiro trabalho está em construir sistemas que possam
-> **evoluir, ser mantidos e continuar gerando valor ao longo do tempo.**
+## ⚙️ UMA IDEIA QUE GUIA MEU TRABALHO
+
+<h2 align="center">
+  “O código pode resolver o problema de hoje.<br>
+  A engenharia precisa preparar o sistema para o amanhã.”
+</h2>
+
+<br>
+
+<p align="center">
+  <strong>Software não deve apenas funcionar.</strong><br>
+  Deve ser compreensível, sustentável e capaz de evoluir
+  quando o negócio, os usuários e os próprios requisitos mudarem.
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Boas decisões técnicas não aparecem apenas quando tudo funciona.</strong><br>
+  Elas aparecem quando o sistema precisa mudar.
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
