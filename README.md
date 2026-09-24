@@ -103,49 +103,99 @@ Construir algo que continue fazendo sentido<br>
 </table>
 ---
 
-### 🎯 O que você vai encontrar aqui
+## ◈ COMO EU PENSO E CONSTRUO
 
-<table>
+<table width="100%">
 <tr>
-<td width="33%" align="center">
 
-**01**
+<td width="33.33%" align="center" valign="top">
 
-### 🧩 Projetos
+### 01
 
-Aplicações desenvolvidas
-para colocar conhecimento
-em prática.
+**PRODUTO**
+
+<br>
+
+Não começo pela tecnologia.
+Começo pelo **problema**.
+
+<br>
+
+Transformo requisitos,
+ideias e necessidades
+em soluções funcionais.
+
+<br><br>
+
+<sub>
+<strong>Problema → Solução</strong>
+</sub>
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
+
+### 02
+
+**ENGENHARIA**
+
+<br>
+
+Arquitetura não é
+sobre complicar.
+
+É sobre tomar boas
+decisões **antes que elas
+se tornem problemas**.
+
+<br><br>
+
+<sub>
+<strong>Arquitetura → Código</strong>
+</sub>
 
 </td>
 
-<td width="33%" align="center">
+<td width="33.33%" align="center" valign="top">
 
-**02**
+### 03
 
-### ⚙️ Engenharia
+**EVOLUÇÃO**
 
-Front-end, back-end,
-APIs, banco de dados
-e arquitetura.
+<br>
 
-</td>
+Software não termina
+quando entra em produção.
 
-<td width="33%" align="center">
+Ele precisa continuar
+**fazendo sentido amanhã**.
 
-**03**
+<br><br>
 
-### 📈 Evolução
-
-Aprendizado contínuo,
-novas tecnologias e
-projetos cada vez maiores.
+<sub>
+<strong>Manutenção → Escala</strong>
+</sub>
 
 </td>
+
 </tr>
 </table>
+
 ---
 
+### ⚙️ UMA IDEIA QUE GUIA MEU TRABALHO
+
+> **Tecnologia só tem valor quando transforma complexidade em resultado.**
+
+<br>
+
+<sub>
+<strong>Construir é apenas o começo.</strong>  
+O verdadeiro trabalho está em criar soluções que possam evoluir,
+ser mantidas e continuar gerando valor ao longo do tempo.
+</sub>
+
+---
 
 ## 🔥 GitHub Streak
 
