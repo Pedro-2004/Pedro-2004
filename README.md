@@ -185,16 +185,16 @@ Ele precisa continuar
 
 ### ⚙️ UMA IDEIA QUE GUIA MEU TRABALHO
 
-> **Tecnologia só tem valor quando transforma complexidade em resultado.**
+> ## **Construir é apenas o começo.**
+> **O verdadeiro valor está em criar soluções que evoluem,**
+> **resistem ao tempo e continuam gerando resultado.**
 
 <br>
 
 <sub>
-<strong>Construir é apenas o começo.</strong>  
-O verdadeiro trabalho está em criar soluções que possam evoluir,
-ser mantidas e continuar gerando valor ao longo do tempo.
+<strong>Porque código pode funcionar hoje.</strong><br>
+<strong>Engenharia de verdade é fazer com que ele continue fazendo sentido amanhã.</strong>
 </sub>
-
 ---
 
 ## 🔥 GitHub Streak
