@@ -185,17 +185,11 @@ Ele precisa continuar
 
 ### ⚙️ UMA IDEIA QUE GUIA MEU TRABALHO
 
-> ## **Construir é apenas o começo.**
-> **O verdadeiro valor está em criar soluções que evoluem,**
-> **resistem ao tempo e continuam gerando resultado.**
-
-<br>
-
-<sub>
-<strong>Porque código pode funcionar hoje.</strong><br>
-<strong>Engenharia de verdade é fazer com que ele continue fazendo sentido amanhã.</strong>
-</sub>
----
+> ## **Código resolve o presente. Engenharia prepara o futuro.**
+>
+> Criar uma solução é apenas o começo.
+> O verdadeiro trabalho está em construir sistemas que possam
+> **evoluir, ser mantidos e continuar gerando valor ao longo do tempo.**
 
 ## 🔥 GitHub Streak
 
