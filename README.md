@@ -300,15 +300,8 @@ conhecimento à próxima solução.
 </h2>
 
 <p align="center">
-  <sub>
-   <h2 align="center">
-  Código muda. Tecnologias mudam. Requisitos mudam.
-</h2>
-
-<h2 align="center">
+  Código muda. Tecnologias mudam. Requisitos mudam.<br>
   <strong>A capacidade de construir soluções que acompanham essa mudança é o que permanece.</strong>
-</h2>
-  </sub>
 </p>
 
 <br>
