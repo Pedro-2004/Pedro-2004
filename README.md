@@ -231,19 +231,80 @@ Ele precisa continuar
 <table width="100%">
 <tr>
 
-<td width="33.33%" align="center" valign="top">
+<td width="33.33%" align="center">
 
 ### 01
 
+</td>
+
+<td width="33.33%" align="center">
+
+### 02
+
+</td>
+
+<td width="33.33%" align="center">
+
+### 03
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33.33%" align="center">
+
 <h3>CONSISTÊNCIA</h3>
 
-Construir regularmente.
-<br>
-Aprender continuamente.
-<br>
+</td>
+
+<td width="33.33%" align="center">
+
+<h3>PROFUNDIDADE</h3>
+
+</td>
+
+<td width="33.33%" align="center">
+
+<h3>EVOLUÇÃO</h3>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33.33%" align="center" valign="top">
+
+Construir regularmente.<br>
+Aprender continuamente.<br>
 Manter o ritmo.
 
-<br><br>
+</td>
+
+<td width="33.33%" align="center" valign="top">
+
+Não basta fazer funcionar.<br><br>
+É preciso compreender <strong>por que</strong> funciona
+e como pode evoluir.
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
+
+Cada projeto adiciona uma nova camada
+de conhecimento à próxima solução.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33.33%" align="center">
+
+<br>
 
 <sub>
 <strong>DISCIPLINA → PRÁTICA</strong>
@@ -251,34 +312,18 @@ Manter o ritmo.
 
 </td>
 
-<td width="33.33%" align="center" valign="top">
-
-### 02
-
-<h3>PROFUNDIDADE</h3>
-
-Não basta fazer funcionar.
-
-É preciso compreender
-**por que funciona**
-e como pode evoluir.
+<td width="33.33%" align="center">
 
 <br>
 
 <sub>
 <strong>ENTENDER → PROJETAR</strong>
 </sub>
+
 </td>
 
-<td width="33.33%" align="center" valign="top">
+<td width="33.33%" align="center">
 
-### 03
-
-<h3>EVOLUÇÃO</h3>
-
-Cada projeto adiciona
-uma nova camada de
-conhecimento à próxima solução.
 <br>
 
 <sub>
