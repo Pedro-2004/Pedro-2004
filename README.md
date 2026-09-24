@@ -209,12 +209,88 @@ Ele precisa continuar
 
 ---
 
-## 🔥 GitHub Streak
+---
+
+## 🔥 CONSISTÊNCIA & EVOLUÇÃO
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-2004&theme=tokyonight"/>
+  <strong>Desenvolvimento consistente. Aprendizado contínuo. Evolução mensurável.</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-2004&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak de Pedro"
+  />
+</p>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="33.33%" align="center" valign="top">
+
+### 01
+
+**CONSISTÊNCIA**
+
+<br>
+
+Projetos, estudos e prática
+constante para transformar
+conhecimento em experiência.
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
+
+### 02
+
+**EVOLUÇÃO**
+
+<br>
+
+Cada projeto representa
+uma nova oportunidade
+de melhorar decisões,
+código e arquitetura.
+
+</td>
+
+<td width="33.33%" align="center" valign="top">
+
+### 03
+
+**DESEMPENHO**
+
+<br>
+
+Mais do que quantidade
+de código, busco aumentar
+a qualidade das soluções
+que construo.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <strong>“Experiência não é escrever código por mais tempo.</strong><br>
+  <strong>É aprender a tomar decisões melhores a cada projeto.”</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <sub>
+    Construir. Aprender. Refinar. Evoluir.
+  </sub>
 </p>
 
 ---
-
-💡 **Always learning | Always building | Always improving.**
