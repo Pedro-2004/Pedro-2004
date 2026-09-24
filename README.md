@@ -47,11 +47,12 @@ TypeScript | JavaScript | Node.js | React | Next.js | PostgreSQL | APIs | Web Ap
 
 ### Pedro — Desenvolvedor Full Stack
 
-Construo aplicações web com foco em **arquitetura, experiência e resultado**.
+Construo aplicações web pensando além da implementação: **arquitetura, manutenção, escalabilidade e experiência** fazem parte da solução.
 
-Meu processo vai além de escrever código: procuro entender o problema, estruturar a solução e transformar a ideia em uma aplicação funcional.
+Antes de escolher uma tecnologia, procuro entender o problema.  
+Antes de escrever código, penso nas decisões que vão sustentá-lo no futuro.
 
-**Atualmente trabalhando com:**
+**Stack atual:**
 
 `TypeScript` · `Node.js` · `React` · `Next.js` · `PostgreSQL`
 
@@ -65,25 +66,37 @@ Meu processo vai além de escrever código: procuro entender o problema, estrutu
 
 <td width="40%" valign="middle" align="center">
 
-### ◈ TECNOLOGIA COM PROPÓSITO
+### ◈ ENGENHARIA, NÃO APENAS CÓDIGO
 
 <br>
 
-> **Código por si só não gera valor.**
->
-> **Soluções que resolvem problemas, sim.**
+> **Tecnologia só tem valor quando transforma**
+> **complexidade em solução.**
 
 <br>
 
 <sub>
-Arquitetura bem pensada.<br>
-Código sustentável.<br>
-Experiência que faz sentido.
+Boas decisões técnicas sobrevivem<br>
+ao código que as implementou.
 </sub>
 
 <br><br>
 
-**Construir é transformar complexidade em solução.**
+**PROBLEMA**  
+↓  
+**ARQUITETURA**  
+↓  
+**SOLUÇÃO**  
+↓  
+**VALOR**
+
+<br>
+
+<sub>
+Construir é fácil.<br>
+Construir algo que continue fazendo sentido<br>
+é onde está a engenharia.
+</sub>
 
 </td>
 
